@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLICn_-tBv5NKsjyqHHjzNLCYqUKCsseA24A&usqp=CAU);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+img{
+    height: 200px;
+
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+    background-color: green ;
+    padding: 5px;
+    
+
+}
+h2{
+    text-align: center;
+    color:white;
+    font-size: 20px;
+    background-color:#268ca3;
+
+}
+p{
+    margin: 50px auto;
+    background-color:#04147e;
+    color: #fff;
+    padding-bottom:  10px;
+    display: inline-block;
+    text-align: center;
+}
